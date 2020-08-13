@@ -5,6 +5,9 @@
 - [JavaScript: The Advanced Concepts Study Notes (Live)](#javascript-the-advanced-concepts-study-notes-live)
   - [Table of Contents](#table-of-contents)
   - [**Section 2: JavaScript Foundation**](#section-2-javascript-foundation)
+    <details>
+    <summary>Click to expand!</summary>
+      
     - [Javascript Engine](#javascript-engine)
     - [Inside the Engine](#inside-the-engine)
     - [Interpreters and Compilers](#interpreters-and-compilers)
@@ -21,7 +24,11 @@
     - [Javascript Runtime](#javascript-runtime)
     - [Node.js](#nodejs)
     - [Advanced JavaScript Cheatsheet](#advanced-javascript-cheatsheet)
+    </details>
   - [**Section 3: Javascript Foundation II**](#section-3-javascript-foundation-ii)
+    <details>
+    <summary>Click to expand!</summary>
+    
     - [Execution Context](#execution-context)
     - [Lexical Environment](#lexical-environment)
     - [Hoisting](#hoisting)
@@ -39,14 +46,22 @@
     - [call(), apply(), bind()](#call-apply-bind)
     - [bind() and currying](#bind-and-currying)
     - [Context vs Scope](#context-vs-scope)
+    </details>
   - [**Section 4: Types in JavaScript**](#section-4-types-in-javascript)
+    <details>
+    <summary>Click to expand!</summary>
+    
     - [Javascript Types](#javascript-types)
     - [Array.isArray()](#arrayisarray)
     - [Pass By Value vs Pass By Reference](#pass-by-value-vs-pass-by-reference)
     - [Exercise: Compare Objects](#exercise-compare-objects)
     - [Exercise: Pass By Reference](#exercise-pass-by-reference)
     - [Type Coercion](#type-coercion)
+    </details>
   - [**Section 5: The 2 Pillars: Closures and Prototypal Inheritance**](#section-5-the-2-pillars-closures-and-prototypal-inheritance)
+    <details>
+    <summary>Click to expand!</summary>
+      
     - [Functions are callable Objects](#functions-are-callable-objects)
     - [First Class Citizens](#first-class-citizens)
     - [Extra Bits: Functions](#extra-bits-functions)
@@ -63,7 +78,11 @@
     - [Exercise - extend the functionality of a built in object](#exercise---extend-the-functionality-of-a-built-in-object)
     - [Prototypal Inheritance with this](#prototypal-inheritance-with-this)
     - [Section Review](#section-review)
+    </details>
   - [**Section 6: Object Oriented Programming**](#section-6-object-oriented-programming)
+    <details>
+    <summary>Click to expand!</summary>
+      
     - [Section Overview](#section-overview)
     - [OOP and FP](#oop-and-fp)
     - [OOP Introduction](#oop-introduction)
@@ -76,7 +95,11 @@
     - [Public vs Private](#public-vs-private)
     - [4 Pillars of OOP](#4-pillars-of-oop)
     - [Exercise: OOP and Polymorphism](#exercise-oop-and-polymorphism)
+    </details>
   - [**Section 7: Functional Programming**](#section-7-functional-programming)
+    <details>
+    <summary>Click to expand!</summary>
+      
     - [Functional Programming Introduction](#functional-programming-introduction)
     - [Exercise: Amazon shopping](#exercise-amazon-shopping)
     - [Pure Functions](#pure-functions)
@@ -90,25 +113,42 @@
     - [Compose and Pipe](#compose-and-pipe)
     - [Arity](#arity)
     - [Solution: Amazon](#solution-amazon)
+    </details>
   - [**Section 8: OOP vs FP**](#section-8-oop-vs-fp)
+    <details>
+    <summary>Click to expand!</summary>
+      
     - [Composition vs Inheritance](#composition-vs-inheritance)
     - [OOP vs FP](#oop-vs-fp)
+    </details>
   - [**Section 9: Asynchronous JavaScript**](#section-9-asynchronous-javascript)
+    <details>
+    <summary>Click to expand!</summary>
+      
     - [Job Queue](#job-queue)
     - [Parallel, Sequence and Race](#parallel-sequence-and-race)
     - [Threads, Concurrency and Parallelism](#threads-concurrency-and-parallelism)
+    </details>
   - [**Section 10: Modules In JavaScript**](#section-10-modules-in-javascript)
+    <details>
+    <summary>Click to expand!</summary>
+      
     - [What Is A Module?](#what-is-a-module)
     - [Module Pattern](#module-pattern)
     - [Module Pattern Pros and Cons](#module-pattern-pros-and-cons)
     - [CommonJS, AMD, UMD](#commonjs-amd-umd)
     - [ES6 Modules](#es6-modules)
+    </details>
   - [**Section 11: Error Handling**](#section-11-error-handling)
+    <details>
+    <summary>Click to expand!</summary>
+      
     - [Errors In JavaScript](#errors-in-javascript)
     - [Try Catch](#try-catch)
     - [Async Error Handling](#async-error-handling)
     - [Exercise: Error Handling](#exercise-error-handling)
     - [Extending Errors](#extending-errors)
+    </details>
 
 ## **Section 2: JavaScript Foundation**
 
